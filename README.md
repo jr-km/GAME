@@ -1,2 +1,0 @@
-# GAME
-Veréb geci
